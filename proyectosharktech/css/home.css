@@ -1,0 +1,112 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Airbnb Cereal App Medium;
+	text-align: center;
+
+}
+
+form {
+	background-image: url("/proyectosharktech/IMG/path-1.png");
+	background-color: #000000;
+	margin: auto;
+	width: 350px;
+	height: 350px;
+	padding-right: 265px;
+	padding-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 255px;
+	
+	
+}
+
+
+input {
+	background-color: var(--white);
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px 
+  #023c68;
+	height: 32px;
+	margin: 10px;
+	float: left;
+    padding-left: 15px;
+    padding-right: 5px;
+	pointer-events: auto;
+    text-align: left;
+	transition: all 0.2s ease;
+	width: 500px;
+	border-style: solid;
+	border-color: #FFFFFF;
+		
+}
+
+input:hover {
+	box-shadow: 0px 0px 10px 2px 
+  rgba(0,0,0,0.2);
+}
+  
+  .smart-layers-pointers,
+  .smart-layers-pointers * {
+	pointer-events: auto;
+	visibility: visible;
+}
+
+
+input[type='submit']{
+	background-color: #000000;
+	color: rgb(255, 255, 255);
+	width: calc(40% - 20px);
+	float: right;
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+	
+}
+
+
+body{
+	width: 100%;
+	height:100%vh;
+	background-size: cover;
+	color:white;
+    background-color: #000000;
+	
+	
+}
+
+  
+  @font-face {
+	font-family: "AirbnbCereal App-Book";
+	font-style: normal;
+	font-weight: 400;
+	src: url("https://fonts.animaapp.com/AirbnbCerealApp-Book") format("truetype");
+  }
+
+
+
+.path-1 {
+	height: 615px;
+	object-fit: cover;
+	width: 719px;
+  }
+  
+
+p {
+	-webkit-text-stroke: 1px var(--black);
+	color: #000000;
+	text-align: left;
+	letter-spacing: 0;
+	line-height: 26px;
+    margin-top: 40px;
+	min-height: 40px;
+	min-width: 92px;
+	text-shadow: 0px 2px 6px 
+  #023c6866;
+  }
+
+
+  
+  
