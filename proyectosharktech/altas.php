@@ -2,6 +2,7 @@
 <head>
   <title>Altas</title>
 </head>
+<link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico" />
 <body>
   <?php
   $conexion = mysqli_connect("localhost", "root", "", "login") or

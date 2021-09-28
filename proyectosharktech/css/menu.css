@@ -1,0 +1,39 @@
+* {
+    font-family: "Airbnb Cereal Medium";
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+}
+
+
+button[type="button1"] {
+    background-image: url("/proyectosharktech/IMG/prestamos.png");
+    
+}
+
+
+button[type="button2"] {
+    background-image: url("/proyectosharktech/IMG/materiales.png");
+    
+}
+
+
+button[type="button3"] {
+    background-image: url("/proyectosharktech/IMG/admin.png");
+}
+
+
+.btn {
+    width: 202px;
+    height: 202px;
+    margin-top: 220px;
+    background-size: 200px;
+    pointer-events: auto;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translate(0, -10px);
+  }
+
+

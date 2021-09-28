@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Airbnb Cereal Medium";
+  src: url("./fonts/AirbnbCerealMedium.woff") format("woff");
+}
+@font-face {
+  font-family: "Airbnb Cereal Book";
+  src: url("./fonts/AirbnbCerealBook.woff") format("woff");
+}
